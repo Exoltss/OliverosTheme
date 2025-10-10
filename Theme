@@ -1,6 +1,6 @@
 /**
- * @name Oliveros Theme
- * @description My custom theme.
+ * @name Discord
+ * @description I LOVE LSD.
  * @author oliveros
  * @version 6.9
  * @invite 
@@ -10,7 +10,7 @@
  * @authorLink https://www.roblox.com/users/48350569/profile
 */
 
-
+/* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
 @import url('https://refact0r.github.io/midnight-discord/archive/midnight.css');
 
