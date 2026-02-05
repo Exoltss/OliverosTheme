@@ -11,4 +11,5 @@ if ! gh auth status >/dev/null 2>&1; then
 fi
 
 repo="${1:-Synq-dev/HalalMM}"
+echo "Cloning $repo..."
 gh repo clone "$repo"
