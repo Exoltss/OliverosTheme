@@ -10,4 +10,5 @@ if ! gh auth status >/dev/null 2>&1; then
   exit 1
 fi
 
-gh repo clone Synq-dev/HalalMM
+repo="${1:-Synq-dev/HalalMM}"
+gh repo clone "$repo"
