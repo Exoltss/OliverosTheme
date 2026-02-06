@@ -5,7 +5,6 @@
  * @version 6.9
  * @invite 
  * @roblox https://www.roblox.com/users/48350569/profile
- * @source https://github.com/Exoltss/OliverosTheme/new/main
  * @authorId 384067604899430430
  * @authorLink https://www.roblox.com/users/48350569/profile
 */
@@ -13,6 +12,8 @@
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
 @import url('https://refact0r.github.io/midnight-discord/archive/midnight.css');
+/* local.css must exist before enabling the theme (create an empty file if needed), or the import can fail and the theme may not load */
+@import url('local.css');
 
 /* customize things here */
 :root {
