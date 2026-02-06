@@ -13,7 +13,7 @@
 
 @import url('https://refact0r.github.io/midnight-discord/archive/midnight.css');
 /* local.css must exist (can be empty) for private overrides */
-@import url('./local.css');
+@import url('local.css');
 
 /* customize things here */
 :root {
