@@ -12,7 +12,8 @@
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
 @import url('https://refact0r.github.io/midnight-discord/archive/midnight.css');
-@import url('local.css');
+/* local.css debe existir (puede estar vacío) para overrides privados */
+@import url('./local.css');
 
 /* customize things here */
 :root {
