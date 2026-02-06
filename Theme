@@ -7,7 +7,6 @@
  * @roblox https://www.roblox.com/users/48350569/profile
  * @authorId 384067604899430430
  * @authorLink https://www.roblox.com/users/48350569/profile
- * @note local.css must exist (can be empty) before enabling the theme.
 */
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
